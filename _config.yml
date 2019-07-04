@@ -8,8 +8,8 @@ url: ""
 
 display_footer: inital  #change this to 'none' if you want to hide the footer copyright text
 
-parallax_image_one: assets/images/Startups/startup.jpg # These are the images used for the parallax background
-parallax_image_two: assets/images/Startups/startup.jpg
+parallax_image_one: assets/images/Startups/startup.png # These are the images used for the parallax background
+parallax_image_two: assets/images/Startups/startup.png
 
 project_one: "GeoShapeNet"
 project_one_description: Describe your project!
