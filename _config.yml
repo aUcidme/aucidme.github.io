@@ -11,10 +11,10 @@ display_footer: inital  #change this to 'none' if you want to hide the footer co
 parallax_image_one: assets/images/Startups/startup.png # These are the images used for the parallax background
 parallax_image_two: assets/images/Startups/startup.png
 
-# project_one: "GeoShapeNet"
-# project_one_description: Describe your project!
-# project_one_url: https://github.com/jameshamann/jekyll-material-theme
-# project_one_icon: location_on
+project_one: "GeoShapeNet"
+project_one_description: Implementation of GeoShapeNet
+project_one_url: https://github.com/jameshamann/jekyll-material-theme
+project_one_icon: location_on
 
 # project_two: Second Project
 # project_two_description: Describe your project!
@@ -33,8 +33,8 @@ parallax_image_two: assets/images/Startups/startup.png
 # project_four_url: https://github.com/jameshamann/jekyll-material-theme
 # project_four_icon: restaurant
 
-# portfolio_heading: Publication
-# portfolio_type: cards
+portfolio_heading: Publication
+portfolio_type: cards
 
 syntax_highlighting: true
 # Skill icons from https://konpa.github.io/devicon/
